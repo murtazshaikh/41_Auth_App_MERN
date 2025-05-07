@@ -110,10 +110,7 @@ npm run dev    # or npm start depending on your setup
 - Password reset functionality  
 - Role-based access (admin/user)  
 - Unit and integration tests
-
-## 📄 License
-
-This project is licensed under the MIT License.
+  
 
 ## 🙋‍♂️ Questions?
 
