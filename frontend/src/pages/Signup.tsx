@@ -26,7 +26,7 @@ function Signup() {
   const handleSignup = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     try {
-      const url = `http://localhost:8000/auth/signup`;
+      const url = `https://auth-app-mern-api-six.vercel.app/auth/signup`;
       const response = await fetch(url, {
         method: "POST",
         headers: {
